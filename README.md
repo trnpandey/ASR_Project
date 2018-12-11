@@ -1,4 +1,4 @@
-# ASR_2018_T01
+# ASR Project
 ## Data pre processing
 Run ```python import_timit.py --timit=./TIMIT --preprocessed=False```
 to compute the features and store them in a folder.
